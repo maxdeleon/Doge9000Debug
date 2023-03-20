@@ -1,0 +1,3 @@
+# ninja log v5
+8	12217	7009586106373020	C:/Users/maxde/OneDrive/Desktop/quantizer/GPTQ-for-LLaMa/build/temp.win-amd64-3.10/Release/quant_cuda.obj	2a8f84d03a5eba0a
+1	38000	7009586364011029	C:/Users/maxde/OneDrive/Desktop/quantizer/GPTQ-for-LLaMa/build/temp.win-amd64-3.10/Release/quant_cuda_kernel.obj	bd31201e9781e399
